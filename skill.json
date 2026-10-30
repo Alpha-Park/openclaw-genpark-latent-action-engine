@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-latent-action-engine",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Latent Action Engine - Speculative tree-search action predictor and prefetch engine with Laplace-smoothed Markov transitions.",
+  "tools": [
+    "predict_next_action_sequence",
+    "evaluate_speculative_acceptance",
+    "evaluate_prefetch_trigger"
+  ]
+}
